@@ -4,7 +4,7 @@ Celebrate **[Hacktoberfest](https://hacktoberfest.digitalocean.com/)** by gettin
 
 This repository is open to all members of the GitHub community. Any member may contribute to this project without being a collaborator.
 
-** Leave a STAR ⭐ please. Will Be Helpful :)
+**Leave a STAR ⭐ please. Will Be Helpful :)**
 
 P.S. Checkout this awesome `README.md` file
 
