@@ -3,7 +3,9 @@
 Celebrate **[Hacktoberfest](https://hacktoberfest.digitalocean.com/)** by getting involved in the open source community by completing some simple tasks in this project.
 
 This repository is open to all members of the GitHub community. Any member may contribute to this project without being a collaborator.
+
 ** Leave a STAR ⭐ please. Will Be Helpful :)
+
 P.S. Checkout this awesome `README.md` file
 
 **[https://github.com/subhamtheone/HacktoberFest_2022/](https://github.com/subhamtheone/HacktoberFest_2022/)**
