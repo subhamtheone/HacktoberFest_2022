@@ -36,7 +36,7 @@ A month-long celebration from October 1st - 31st sponsored by **[Digital Ocean](
  ```terminal
  git add .
  git commit -m "Commit Message"
- git push <branch-name>
+ git push origin <branch-name>
  ```
 - Make a PR to the original repository
 - Once we validate your contribution we will merge it
