@@ -1,3 +1,8 @@
+//Name- Suman Meher
+//Username- sumanmeher
+
+//DUCK NUMBERS: A number which has zeroes present in it, but there should be no zero present in the beginning of the number.
+//Ex: 7089,884602, etc.
 import java.util.Scanner;
 public class DuckNumbers {
     public static void main(String[] args) {
