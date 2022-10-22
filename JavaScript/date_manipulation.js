@@ -8,10 +8,10 @@ console.log(current_year)
 let newDate = new Date(1223727718982) // Passing a timestamp
 // Sat Oct 11 2008 14:21:58 GMT+0200 (Central European Summer Time)
 
-let newDate = new Date("2022-23-10T14:56:23")
+newDate = new Date("2022-23-10T14:56:23")
 
 //format according to the computer's default locale
-Intl.DateTimeFormat().format(newDate)
+// Intl.DateTimeFormat().format(newDate)
 // "23/10/2022"
 
 /* **CUSTOM Date Formats** */
