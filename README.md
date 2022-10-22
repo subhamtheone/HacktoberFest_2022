@@ -22,11 +22,14 @@ A month-long celebration from October 1st - 31st sponsored by **[Digital Ocean](
 ## ✨Getting Started :
 - Register yourself on **[Hacktoberfest](https://hacktoberfest.digitalocean.com/)**
 - Fork this repository by clicking on the top right "fork" button
-- Clone this repository on to your local system
+- Now, clone this forked repository on to your local system
 
  ```terminal
- git clone https://github.com/subhamtheone/HacktoberFest_2022.git
+ git clone https://github.com/<your_username_here>/HacktoberFest_2022.git
  ```
+ 
+ Example: git clone https://github.com/subhamtheone/HacktoberFest_2022.git
+
 - Create a new branch for yourself
  ```terminal
  git checkout -b <branch-name>
